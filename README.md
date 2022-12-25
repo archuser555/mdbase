@@ -1,2 +1,2 @@
-# base64decenc
-a basic base64 decryptor and encryptor i made to learn svelte
+# mdbase
+a simple website that do md5 encryption and base64 encryption & decryption
